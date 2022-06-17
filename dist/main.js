@@ -1,1 +1,0 @@
-(()=>{"use strict";console.log("执行tab逻辑功能"),console.log("执行轮播图逻辑功能")})();
